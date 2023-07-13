@@ -2,7 +2,7 @@
 
 The most convenient way to install missing dependencies and automatically append the necessary import statements to the top of your Python files for projects using [Poetry](https://python-poetry.org/) as the dependency manager
 
-<img src=images/demo.gif>
+<img src="https://raw.githubusercontent.com/nodox/autopoetry/main/images/demo.gif">
 
 ## Caveats
 
