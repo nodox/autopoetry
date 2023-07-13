@@ -34,6 +34,8 @@ function findMissingPackages(filePath: string, workspaceRoot: string): Promise<s
         const command = `pylint --disable=all --enable=undefined-variable --output-format=json ${filePath}`;
 
         childProcess.exec(command, (error, stdout, stderr) => {
+            console.log('debug:childProcess', stdout, stderr)
+
             if (error) {
                 console.log('debug:childProcess', stdout)
 

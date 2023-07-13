@@ -2,6 +2,8 @@
 
 The most convenient way to install missing dependencies and automatically append the necessary import statements to the top of your Python files for projects using [Poetry](https://python-poetry.org/) as the dependency manager
 
+<img src=images/demo.gif>
+
 ## Caveats
 
 - **Alpha Stage:** Please note that this extension is currently in the alpha stage, and there may be breaking changes at any time.
@@ -28,7 +30,7 @@ The most convenient way to install missing dependencies and automatically append
 ## Requirements
 
 - Poetry
-- Pylint 
+- Pylint
 
 ## Feedback and Support
 
