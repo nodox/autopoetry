@@ -6,6 +6,11 @@
   "engines": {
     "vscode": "^1.80.0"
   },
+  "publisher": "StevenNatera",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nodox/autopoetry.git"
+  },
   "categories": [
     "Other"
   ],
