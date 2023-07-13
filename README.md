@@ -27,7 +27,8 @@ The most convenient way to install missing dependencies and automatically append
 
 ## Requirements
 
-- This extension assumes that your project already has an existing Poetry setup.
+- Poetry
+- Pylint 
 
 ## Feedback and Support
 
